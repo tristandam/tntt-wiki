@@ -11,8 +11,8 @@ module.exports = {
   favicon: 'img/learn/tntt_logo.jpg',
   trailingSlash: false,
   organizationName: 'tristandam', // Usually your GitHub org/user name.
-  projectName: 'tntt-wiki.github.io', // Usually your repo name.
-  deploymentBranch: 'master',
+  projectName: 'tntt-wiki', // Usually your repo name.
+  deploymentBranch: 'gh-pages',
   stylesheets: [
     'https://fonts.googleapis.com/css?family=Material+Icons',
     {
@@ -74,14 +74,14 @@ module.exports = {
         image: 'img/learn/tn_khan.jpg',
         link: 'learn/about-iota/an-introduction-to-iota',
         description:
-          'Learn about IOTA, the Tangle, its features, industry applications, network and more.',
+          'Resources such as lesson plans, games, and songs appropriate for Nganh Thieu!',
       },
       {
         title: 'Nghia Si',
         image: 'img/learn/ns_khan.jpg',
         link: 'learn/about-iota/an-introduction-to-iota',
         description:
-          'Learn about IOTA, the Tangle, its features, industry applications, network and more.',
+          'Resources for teaching and organizing events to bring Nghia Si to their maximum potential.',
       },
       {
         title: 'Hiep Si',
