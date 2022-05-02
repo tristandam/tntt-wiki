@@ -4,14 +4,15 @@
 module.exports = {
   title: 'TNTT Wiki',
   tagline: 'The complete reference for TNTT',
-  url: 'https://wiki.iota.org',
+  url: 'https://tntt-wiki.github.io',
   baseUrl: '/',
   onBrokenLinks: 'log',
   onBrokenMarkdownLinks: 'log',
   favicon: 'img/learn/tntt_logo.jpg',
   trailingSlash: false,
-  organizationName: 'iota-community', // Usually your GitHub org/user name.
-  projectName: 'iota-wiki', // Usually your repo name.
+  organizationName: 'tristandam', // Usually your GitHub org/user name.
+  projectName: 'tntt-wiki.github.io', // Usually your repo name.
+  deploymentBranch: 'master',
   stylesheets: [
     'https://fonts.googleapis.com/css?family=Material+Icons',
     {
