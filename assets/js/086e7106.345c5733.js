@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkiota_wiki=self.webpackChunkiota_wiki||[]).push([[20828],{81212:function(i){i.exports=JSON.parse('{"plugin":{"name":"docusaurus-plugin-content-docs","id":"IOTA-Research-Specifications"}}')}}]);
